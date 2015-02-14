@@ -1,4 +1,4 @@
-plugInterface = {
+var plugInterface = {
 	_e: require("d56b1/c7e48/a239e"),
 	_o: require("d56b1/adf9d/a28a5"),
 	chat: function(t,m,n,b,i){
