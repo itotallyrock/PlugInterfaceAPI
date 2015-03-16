@@ -1,6 +1,6 @@
 var plugInterface = {
-	_e: require("e4881/bc229/d5ab0"),
-	_o: require("e4881/bac6a/f5cc1"),
+	_e: require("f06e2/edaf9/b7093"),
+	_o: require("f06e2/d391a/b2a65"),
 	_chattypes: {
 		"":"",
 		alert:"c42e3b;",
